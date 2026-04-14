@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Images/0_Tittle_Card.png" alt="Extractor de Coordenadas RTK" width="800">
+<img src="Image/0_Tittle_Card.png" alt="Extractor de Coordenadas RTK" width="800">
 
 # 📡 EXTRACTOR DE COORDENADAS RTK
 
