@@ -185,22 +185,22 @@ Encima de la lista de archivos hay dos controles que aplican cambios a **todos l
 
 > *Archivos CSV generados por receptores GNSS RTK (como el **Reach RS2** de Emlid)*
 
-![Archivos_CSV](https://github.com/ChrisSilver76/Extractor-de-Coordenadas-RTK/blob/77593c26357a901f0f473bd20694e6e1f4aebf40/Image/1_Archivos_csv.png)
+![Archivos_CSV](Image/1_Archivos_csv.png)
 
 ### Estado vacío (sin archivos)
 > La zona de carga muestra instrucciones y el botón de selección
 
-![Sin_Aechivos](https://github.com/ChrisSilver76/Extractor-de-Coordenadas-RTK/blob/77593c26357a901f0f473bd20694e6e1f4aebf40/Image/2_Estado_vac%C3%ADo.png)
+![Sin_Aechivos](Image/2_Estado_vacío.png)
 
 ### Archivos cargados
 > Cada archivo muestra su fila de controles con los checkboxes y la descripción auto-detectada
 
-![Archivos_Cargados](https://github.com/ChrisSilver76/Extractor-de-Coordenadas-RTK/blob/77593c26357a901f0f473bd20694e6e1f4aebf40/Image/3_Archivos_Cargados.png)
+![Archivos_Cargados](Image/3_Archivos_Cargados.png)
 
 ### Procesamiento en curso
 > La barra de progreso reemplaza el botón "PROCESAR ARCHIVOS" y muestra el ETA en tiempo real
 
-![Procesamiento](https://github.com/ChrisSilver76/Extractor-de-Coordenadas-RTK/blob/77593c26357a901f0f473bd20694e6e1f4aebf40/Image/4_Procesando_en_Curso.png)
+![Procesamiento](Image/4_Procesando_en_Curso.png)
 
 ---
 
